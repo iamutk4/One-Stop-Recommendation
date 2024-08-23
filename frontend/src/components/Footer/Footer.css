@@ -1,0 +1,21 @@
+.footer {
+    background-color: #343a40;  /* Dark background for contrast */
+    color: #cccccc;             /* Light gray text for readability */
+    padding: 20px 50px;         /* Consistent padding with the header */
+    text-align: center;         /* Center-align the text */
+    box-shadow: 0 -2px 8px rgba(0,0,0,0.1); /* Subtle shadow for depth */
+    font-family: 'Arial', sans-serif;       /* Consistent font with the header */
+}
+
+.footer p {
+    margin: 5px 0;              /* Minimal margin for a compact look */
+}
+
+.footer a {
+    color: #ffffff;             /* Bright white for links for better visibility */
+    text-decoration: none;      /* No underline */
+}
+
+.footer a:hover {
+    text-decoration: underline; /* Underline on hover for a visual feedback */
+}

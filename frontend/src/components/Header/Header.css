@@ -1,0 +1,13 @@
+.header {
+    background-color: #004085;  /* A deep blue background */
+    color: #ffffff;             /* White text color */
+    padding: 20px 50px;         /* Ample padding for aesthetic spacing */
+    text-align: center;         /* Center-align the text */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);  /* Subtle shadow for depth */
+    font-family: 'Arial', sans-serif;       /* Optional: font style */
+}
+
+.header h1 {
+    margin: 0;                  /* Removes default margin */
+    font-size: 2.5em;           /* Larger text for the main title */
+}
